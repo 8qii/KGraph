@@ -1,0 +1,1782 @@
+{
+  "nodes": [
+    {
+      "name": "Áo sơ mi nam công sở",
+      "type": "Áo"
+    },
+    {
+      "name": "Cotton",
+      "type": "Vật liệu"
+    },
+    {
+      "name": "Trắng",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Zara",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Sang trọng",
+      "type": "Phong cách"
+    },
+    {
+      "name": "Công sở",
+      "type": "Sự kiện"
+    },
+    {
+      "name": "Quần jean skinny",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Denim pha Polyester",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Xanh navy",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "H&M",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Trẻ trung",
+      "type": "Phong cách"
+    },
+    {
+      "name": "Dạo phố",
+      "type": "Sự kiện"
+    },
+    {
+      "name": "Tiệc",
+      "type": "Sự kiện"
+    },
+    {
+      "name": "Quần jean skinny fit của H&M mang đến phong cách trẻ trung, hiện đại. Được làm từ denim pha Polyester, giúp co giãn thoải mái và giữ form tốt.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "2500",
+      "type": "Giá"
+    },
+    {
+      "name": "Áo khoác dạ dài",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Len pha Polyester",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Đen",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Uniqlo",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Minimalist",
+      "type": "Phong cách"
+    },
+    {
+      "name": "Trang trọng",
+      "type": "Sự kiện"
+    },
+    {
+      "name": "Đông",
+      "type": "Mùa"
+    },
+    {
+      "name": "Mẫu áo khoác dáng dài của Uniqlo là sự kết hợp hoàn hảo giữa thời trang và tiện dụng. Chất liệu len pha polyester, giữ ấm tốt, thích hợp cho mùa đông.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "124",
+      "type": "Giá"
+    },
+    {
+      "name": "Váy maxi vintage",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Voan nhẹ",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Hồng pastel",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Mango",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Vintage",
+      "type": "Phong cách"
+    },
+    {
+      "name": "Tiệc ngoài trời",
+      "type": "Sự kiện"
+    },
+    {
+      "name": "Mùa hè",
+      "type": "Mùa"
+    },
+    {
+      "name": "Bộ thể thao Adidas Performance",
+      "type": "Bộ thể thao"
+    },
+    {
+      "name": "Thun co giãn 4 chiều",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Xám, Đen",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Adidas",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Athleisure",
+      "type": "Phong cách"
+    },
+    {
+      "name": "Thể thao",
+      "type": "Phong cách"
+    },
+    {
+      "name": "Bộ đồ thể thao Adidas Performance, thiết kế dành riêng cho những người yêu thích vận động.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "853",
+      "type": "Giá"
+    },
+    {
+      "name": "Áo thun unisex",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Xanh dương",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Nike",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Casual",
+      "type": "Phong cách"
+    },
+    {
+      "name": "Áo thun unisex của Nike, chất liệu cotton thoáng mát, dễ phối đồ. Màu xanh dương nổi bật, phù hợp cho phong cách casual.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "340",
+      "type": "Giá"
+    },
+    {
+      "name": "Chân váy bút chì",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Len pha",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Xám",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Gucci",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Thanh lịch",
+      "type": "Phong cách"
+    },
+    {
+      "name": "Chân váy bút chì Gucci giúp tôn dáng với chất liệu len pha giữ ấm, thích hợp mặc trong môi trường công sở sang trọng.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "964",
+      "type": "Giá"
+    },
+    {
+      "name": "Giày sneaker cổ thấp",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Da tổng hợp",
+      "type": "Vật liệu"
+    },
+    {
+      "name": "Converse",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Streetwear",
+      "type": "Phong cách"
+    },
+    {
+      "name": "Mẫu giày sneaker cổ thấp Converse, chất liệu da tổng hợp bền bỉ, màu trắng tinh tế, dễ phối với nhiều phong cách.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "850",
+      "type": "Giá"
+    },
+    {
+      "name": "Áo hoodie nỉ",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Nỉ bông",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Đỏ",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Supreme",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Áo hoodie Supreme với chất nỉ bông dày dặn, màu đỏ nổi bật, giúp giữ ấm và phù hợp phong cách streetwear.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "102",
+      "type": "Giá"
+    },
+    {
+      "name": "Quần short thể thao",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Polyester",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Puma",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Tập gym",
+      "type": "Sự kiện"
+    },
+    {
+      "name": "Quần short thể thao Puma với chất liệu polyester thoáng khí, co giãn tốt, lý tưởng cho các hoạt động thể thao.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "2350",
+      "type": "Giá"
+    },
+    {
+      "name": "Đầm bodycon",
+      "type": "Trang phục"
+    },
+    {
+      "name": "Lụa pha Spandex",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Đỏ rượu",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Dior",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Dạ tiệc",
+      "type": "Sự kiện"
+    },
+    {
+      "name": "Chiếc đầm bodycon Dior ôm sát, tôn dáng, chất liệu lụa pha spandex cao cấp, thích hợp cho các buổi dạ tiệc.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "262",
+      "type": "Giá"
+    },
+    {
+      "name": "Áo blazer nữ",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Be",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Chanel",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Áo blazer Chanel màu be trang nhã, chất liệu len pha, mang lại phong cách thanh lịch và chuyên nghiệp.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "560",
+      "type": "Giá"
+    },
+    {
+      "name": "Túi xách da",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Da thật",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Nâu",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Louis Vuitton",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Túi xách Louis Vuitton bằng da thật, màu nâu cổ điển, là điểm nhấn hoàn hảo cho phong cách công sở hoặc dạo phố.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "830",
+      "type": "Giá"
+    },
+    {
+      "name": "Mũ lưỡi trai",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Xanh lá",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "New Era",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Mũ lưỡi trai New Era màu xanh lá, phong cách năng động, phù hợp để phối đồ casual khi dạo phố.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "520",
+      "type": "Giá"
+    },
+    {
+      "name": "Găng tay da",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Prada",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Mùa đông",
+      "type": "Mùa"
+    },
+    {
+      "name": "600",
+      "type": "Giá"
+    },
+    {
+      "name": "Áo polo nam",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Cotton co giãn",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Lacoste",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Áo polo Lacoste thiết kế đơn giản, chất liệu cotton co giãn giúp thoải mái khi mặc.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "750",
+      "type": "Giá"
+    },
+    {
+      "name": "Váy suông midi",
+      "type": "Loại váy"
+    },
+    {
+      "name": "Linen",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Trắng kem",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Váy suông midi Zara với chất linen nhẹ nhàng, tạo sự thoải mái và thanh lịch.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "450",
+      "type": "Giá"
+    },
+    {
+      "name": "Quần tây nam",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Vải wool pha",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Xám đậm",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Hugo Boss",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Quần tây Hugo Boss chất liệu cao cấp, giúp đứng form đẹp và phù hợp môi trường công sở.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "990",
+      "type": "Giá"
+    },
+    {
+      "name": "Giày oxford nam",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Clarks",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Giày Oxford Clarks da thật bền bỉ, thiết kế cổ điển phù hợp cho môi trường công sở.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "1500",
+      "type": "Giá"
+    },
+    {
+      "name": "Dép lê thời trang",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Cao su tổng hợp",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Birkenstock",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Dép lê Birkenstock mang lại sự thoải mái, phù hợp với phong cách tối giản.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "700",
+      "type": "Giá"
+    },
+    {
+      "name": "Balo vải canvas",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Canvas",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Fjällräven",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Du lịch",
+      "type": "Sự kiện"
+    },
+    {
+      "name": "Balo Fjällräven chất liệu canvas bền bỉ, phù hợp cho những chuyến đi xa hoặc sử dụng hằng ngày",
+      "type": "Mô tả"
+    },
+    {
+      "name": "1200",
+      "type": "Giá"
+    },
+    {
+      "name": "Áo cardigan len",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Len Merino",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Xanh rêu",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Mùa thu",
+      "type": "Mùa"
+    },
+    {
+      "name": "680",
+      "type": "Giá"
+    },
+    {
+      "name": "Quần jogger thể thao",
+      "type": "Quần"
+    },
+    {
+      "name": "Polyester co giãn",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Xám nhạt",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Quần jogger Nike phù hợp cho tập luyện và cả mặc hàng ngày với thiết kế thoải mái.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "1050",
+      "type": "Giá"
+    },
+    {
+      "name": "Đầm xòe ren",
+      "type": "Trang phục"
+    },
+    {
+      "name": "Ren cao cấp",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Valentino",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Thiết kế nữ tính, giúp nàng nổi bật trong mọi buổi tiệc",
+      "type": "Mô tả"
+    },
+    {
+      "name": "3200",
+      "type": "Giá"
+    },
+    {
+      "name": "Kính mát thời trang",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Nhựa acetate",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Ray-Ban",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Kính mát Ray-Ban phong cách thời trang, bảo vệ mắt và tạo điểm nhấn cá tính.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "950",
+      "type": "Giá"
+    },
+    {
+      "name": "Áo len cổ lọ",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Len cashmere",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Massimo Dutti",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "860",
+      "type": "Giá"
+    },
+    {
+      "name": "Túi đeo chéo nam",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Da PU",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Coach",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Túi đeo chéo Coach nhỏ gọn, tiện lợi để đựng các vật dụng cá nhân khi ra ngoài.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "1100",
+      "type": "Giá"
+    },
+    {
+      "name": "Áo sát nách thể thao",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Vải thể thao co giãn",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Under Armour",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Áo sát nách Under Armour giúp thấm hút mồ hôi tốt, lý tưởng cho những buổi tập luyện.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "540",
+      "type": "Giá"
+    },
+    {
+      "name": "Giày cao gót nữ",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Nude",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Jimmy Choo",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Giày cao gót Jimmy Choo với thiết kế sang trọng, phù hợp cho công sở và các sự kiện lớn.",
+      "type": "Mô tả"
+    },
+    {
+      "name": "2800",
+      "type": "Giá"
+    },
+    {
+      "name": "Quần legging yoga",
+      "type": "Sản phẩm"
+    },
+    {
+      "name": "Spandex",
+      "type": "Chất liệu"
+    },
+    {
+      "name": "Tím",
+      "type": "Màu sắc"
+    },
+    {
+      "name": "Lululemon",
+      "type": "Thương hiệu"
+    },
+    {
+      "name": "Yoga",
+      "type": "Sự kiện"
+    },
+    {
+      "name": "Quần legging Lululemon có độ co giãn cao, giúp thoải mái vận động khi tập yoga",
+      "type": "Mô tả"
+    },
+    {
+      "name": "970",
+      "type": "Giá"
+    }
+  ],
+  "relationships": [
+    {
+      "start": "Áo sơ mi nam công sở",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Cotton"
+    },
+    {
+      "start": "Áo sơ mi nam công sở",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Trắng"
+    },
+    {
+      "start": "Áo sơ mi nam công sở",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Zara"
+    },
+    {
+      "start": "Áo sơ mi nam công sở",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Sang trọng"
+    },
+    {
+      "start": "Áo sơ mi nam công sở",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Công sở"
+    },
+    {
+      "start": "Áo sơ mi nam công sở",
+      "type": "CÓ_GIÁ",
+      "end": "100"
+    },
+    {
+      "start": "Áo sơ mi nam công sở",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Chiếc áo sơ mi nam cao cấp của Zara, được làm từ 100% cotton, mang lại cảm giác mềm mại và thoáng mát. Sản phẩm có màu trắng, kiểu dáng regular fit, phù hợp với môi trường công sở hoặc các sự kiện trang trọng."
+    },
+    {
+      "start": "Quần jean skinny",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Denim pha Polyester"
+    },
+    {
+      "start": "Quần jean skinny",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Xanh navy"
+    },
+    {
+      "start": "Quần jean skinny",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "H&M"
+    },
+    {
+      "start": "Quần jean skinny",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Trẻ trung"
+    },
+    {
+      "start": "Quần jean skinny",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Quần jean skinny",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Tiệc"
+    },
+    {
+      "start": "Quần jean skinny",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Quần jean skinny fit của H&M mang đến phong cách trẻ trung, hiện đại. Được làm từ denim pha Polyester, giúp co giãn thoải mái và giữ form tốt."
+    },
+    {
+      "start": "Quần jean skinny",
+      "type": "CÓ_GIÁ",
+      "end": "2500"
+    },
+    {
+      "start": "Áo khoác dạ dài",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Len pha Polyester"
+    },
+    {
+      "start": "Áo khoác dạ dài",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Đen"
+    },
+    {
+      "start": "Áo khoác dạ dài",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Uniqlo"
+    },
+    {
+      "start": "Áo khoác dạ dài",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Minimalist"
+    },
+    {
+      "start": "Áo khoác dạ dài",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Công sở"
+    },
+    {
+      "start": "Áo khoác dạ dài",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Trang trọng"
+    },
+    {
+      "start": "Áo khoác dạ dài",
+      "type": "CÓ_GIÁ",
+      "end": "124"
+    },
+    {
+      "start": "Áo khoác dạ dài",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Mẫu áo khoác dáng dài của Uniqlo là sự kết hợp hoàn hảo giữa thời trang và tiện dụng. Chất liệu len pha polyester, giữ ấm tốt, thích hợp cho mùa đông."
+    },
+    {
+      "start": "Áo khoác dạ dài",
+      "type": "DÙNG_CHO_MÙA",
+      "end": "Đông"
+    },
+    {
+      "start": "Váy maxi vintage",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Voan nhẹ"
+    },
+    {
+      "start": "Váy maxi vintage",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Hồng pastel"
+    },
+    {
+      "start": "Váy maxi vintage",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Mango"
+    },
+    {
+      "start": "Váy maxi vintage",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Vintage"
+    },
+    {
+      "start": "Váy maxi vintage",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Váy maxi vintage",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Tiệc ngoài trời"
+    },
+    {
+      "start": "Váy maxi vintage",
+      "type": "DÙNG_CHO_MÙA",
+      "end": "Mùa hè"
+    },
+    {
+      "start": "Váy maxi vintage",
+      "type": "CÓ_GIÁ",
+      "end": "344"
+    },
+    {
+      "start": "Váy maxi vintage",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Váy maxi phong cách vintage từ thương hiệu Mango, mang đến sự nữ tính và dịu dàng. Sử dụng chất liệu voan nhẹ thoáng mát, phù hợp với mùa hè."
+    },
+    {
+      "start": "Bộ thể thao Adidas Performance",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Thun co giãn 4 chiều"
+    },
+    {
+      "start": "Bộ thể thao Adidas Performance",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Xám, Đen"
+    },
+    {
+      "start": "Bộ thể thao Adidas Performance",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Adidas"
+    },
+    {
+      "start": "Bộ thể thao Adidas Performance",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Athleisure"
+    },
+    {
+      "start": "Bộ thể thao Adidas Performance",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Thể thao"
+    },
+    {
+      "start": "Bộ thể thao Adidas Performance",
+      "type": "CÓ_GIÁ",
+      "end": "853"
+    },
+    {
+      "start": "Bộ thể thao Adidas Performance",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Bộ đồ thể thao Adidas Performance, thiết kế dành riêng cho những người yêu thích vận động."
+    },
+    {
+      "start": "Áo thun unisex",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Cotton"
+    },
+    {
+      "start": "Áo thun unisex",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Xanh dương"
+    },
+    {
+      "start": "Áo thun unisex",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Nike"
+    },
+    {
+      "start": "Áo thun unisex",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Casual"
+    },
+    {
+      "start": "Áo thun unisex",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Áo thun unisex",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Áo thun unisex của Nike, chất liệu cotton thoáng mát, dễ phối đồ. Màu xanh dương nổi bật, phù hợp cho phong cách casual."
+    },
+    {
+      "start": "Áo thun unisex",
+      "type": "CÓ_GIÁ",
+      "end": "340"
+    },
+    {
+      "start": "Chân váy bút chì",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Len pha"
+    },
+    {
+      "start": "Chân váy bút chì",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Xám"
+    },
+    {
+      "start": "Chân váy bút chì",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Gucci"
+    },
+    {
+      "start": "Chân váy bút chì",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Thanh lịch"
+    },
+    {
+      "start": "Chân váy bút chì",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Công sở"
+    },
+    {
+      "start": "Chân váy bút chì",
+      "type": "CÓ_GIÁ",
+      "end": "964"
+    },
+    {
+      "start": "Chân váy bút chì",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Chân váy bút chì Gucci giúp tôn dáng với chất liệu len pha giữ ấm, thích hợp mặc trong môi trường công sở sang trọng."
+    },
+    {
+      "start": "Giày sneaker cổ thấp",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Da tổng hợp"
+    },
+    {
+      "start": "Giày sneaker cổ thấp",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Trắng"
+    },
+    {
+      "start": "Giày sneaker cổ thấp",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Converse"
+    },
+    {
+      "start": "Giày sneaker cổ thấp",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Streetwear"
+    },
+    {
+      "start": "Giày sneaker cổ thấp",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Giày sneaker cổ thấp",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Mẫu giày sneaker cổ thấp Converse, chất liệu da tổng hợp bền bỉ, màu trắng tinh tế, dễ phối với nhiều phong cách."
+    },
+    {
+      "start": "Giày sneaker cổ thấp",
+      "type": "CÓ_GIÁ",
+      "end": "850"
+    },
+    {
+      "start": "Áo hoodie nỉ",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Nỉ bông"
+    },
+    {
+      "start": "Áo hoodie nỉ",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Đỏ"
+    },
+    {
+      "start": "Áo hoodie nỉ",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Supreme"
+    },
+    {
+      "start": "Áo hoodie nỉ",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Streetwear"
+    },
+    {
+      "start": "Áo hoodie nỉ",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Áo hoodie nỉ",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Áo hoodie Supreme với chất nỉ bông dày dặn, màu đỏ nổi bật, giúp giữ ấm và phù hợp phong cách streetwear."
+    },
+    {
+      "start": "Áo hoodie nỉ",
+      "type": "CÓ_GIÁ",
+      "end": "102"
+    },
+    {
+      "start": "Quần short thể thao",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Polyester"
+    },
+    {
+      "start": "Quần short thể thao",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Đen"
+    },
+    {
+      "start": "Quần short thể thao",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Puma"
+    },
+    {
+      "start": "Quần short thể thao",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Thể thao"
+    },
+    {
+      "start": "Quần short thể thao",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Tập gym"
+    },
+    {
+      "start": "Quần short thể thao",
+      "type": "CÓ_GIÁ",
+      "end": "2350"
+    },
+    {
+      "start": "Quần short thể thao",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Quần short thể thao Puma với chất liệu polyester thoáng khí, co giãn tốt, lý tưởng cho các hoạt động thể thao."
+    },
+    {
+      "start": "Đầm bodycon",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Lụa pha Spandex"
+    },
+    {
+      "start": "Đầm bodycon",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Đỏ rượu"
+    },
+    {
+      "start": "Đầm bodycon",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Dior"
+    },
+    {
+      "start": "Đầm bodycon",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Sang trọng"
+    },
+    {
+      "start": "Đầm bodycon",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạ tiệc"
+    },
+    {
+      "start": "Đầm bodycon",
+      "type": "CÓ_GIÁ",
+      "end": "262"
+    },
+    {
+      "start": "Đầm bodycon",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Chiếc đầm bodycon Dior ôm sát, tôn dáng, chất liệu lụa pha spandex cao cấp, thích hợp cho các buổi dạ tiệc."
+    },
+    {
+      "start": "Áo blazer nữ",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Len pha"
+    },
+    {
+      "start": "Áo blazer nữ",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Be"
+    },
+    {
+      "start": "Áo blazer nữ",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Chanel"
+    },
+    {
+      "start": "Áo blazer nữ",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Thanh lịch"
+    },
+    {
+      "start": "Áo blazer nữ",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Công sở"
+    },
+    {
+      "start": "Áo blazer nữ",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Áo blazer Chanel màu be trang nhã, chất liệu len pha, mang lại phong cách thanh lịch và chuyên nghiệp."
+    },
+    {
+      "start": "Áo blazer nữ",
+      "type": "CÓ_GIÁ",
+      "end": "560"
+    },
+    {
+      "start": "Túi xách da",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Da thật"
+    },
+    {
+      "start": "Túi xách da",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Nâu"
+    },
+    {
+      "start": "Túi xách da",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Louis Vuitton"
+    },
+    {
+      "start": "Túi xách da",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Sang trọng"
+    },
+    {
+      "start": "Túi xách da",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Túi xách da",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Công sở"
+    },
+    {
+      "start": "Túi xách da",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Túi xách Louis Vuitton bằng da thật, màu nâu cổ điển, là điểm nhấn hoàn hảo cho phong cách công sở hoặc dạo phố."
+    },
+    {
+      "start": "Túi xách da",
+      "type": "CÓ_GIÁ",
+      "end": "830"
+    },
+    {
+      "start": "Mũ lưỡi trai",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Cotton"
+    },
+    {
+      "start": "Mũ lưỡi trai",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Xanh lá"
+    },
+    {
+      "start": "Mũ lưỡi trai",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "New Era"
+    },
+    {
+      "start": "Mũ lưỡi trai",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Casual"
+    },
+    {
+      "start": "Mũ lưỡi trai",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Mũ lưỡi trai",
+      "type": "CÓ_GIÁ",
+      "end": "520"
+    },
+    {
+      "start": "Mũ lưỡi trai",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Mũ lưỡi trai New Era màu xanh lá, phong cách năng động, phù hợp để phối đồ casual khi dạo phố."
+    },
+    {
+      "start": "Găng tay da",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Da thật"
+    },
+    {
+      "start": "Găng tay da",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Đen"
+    },
+    {
+      "start": "Găng tay da",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Prada"
+    },
+    {
+      "start": "Găng tay da",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Thanh lịch"
+    },
+    {
+      "start": "Găng tay da",
+      "type": "DÙNG_CHO_MÙA",
+      "end": "Mùa đông"
+    },
+    {
+      "start": "Găng tay da",
+      "type": "CÓ_GIÁ",
+      "end": "600"
+    },
+    {
+      "start": "Găng tay da",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Găng tay da Prada giữ ấm tốt, màu đen sang trọng, lý tưởng để dùng trong mùa đông lạnh giá."
+    },
+    {
+      "start": "Áo polo nam",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Cotton co giãn"
+    },
+    {
+      "start": "Áo polo nam",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Xanh navy"
+    },
+    {
+      "start": "Áo polo nam",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Lacoste"
+    },
+    {
+      "start": "Áo polo nam",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Casual"
+    },
+    {
+      "start": "Áo polo nam",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Áo polo nam",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Áo polo Lacoste thiết kế đơn giản, chất liệu cotton co giãn giúp thoải mái khi mặc."
+    },
+    {
+      "start": "Áo polo nam",
+      "type": "CÓ_GIÁ",
+      "end": "750"
+    },
+    {
+      "start": "Váy suông midi",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Linen"
+    },
+    {
+      "start": "Váy suông midi",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Trắng kem"
+    },
+    {
+      "start": "Váy suông midi",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Zara"
+    },
+    {
+      "start": "Váy suông midi",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Vintage"
+    },
+    {
+      "start": "Váy suông midi",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Váy suông midi",
+      "type": "CÓ_GIÁ",
+      "end": "450"
+    },
+    {
+      "start": "Váy suông midi",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Váy suông midi Zara với chất linen nhẹ nhàng, tạo sự thoải mái và thanh lịch."
+    },
+    {
+      "start": "Quần tây nam",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Vải wool pha"
+    },
+    {
+      "start": "Quần tây nam",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Xám đậm"
+    },
+    {
+      "start": "Quần tây nam",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Hugo Boss"
+    },
+    {
+      "start": "Quần tây nam",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Sang trọng"
+    },
+    {
+      "start": "Quần tây nam",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Công sở"
+    },
+    {
+      "start": "Quần tây nam",
+      "type": "CÓ_GIÁ",
+      "end": "990"
+    },
+    {
+      "start": "Quần tây nam",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Quần tây Hugo Boss chất liệu cao cấp, giúp đứng form đẹp và phù hợp môi trường công sở."
+    },
+    {
+      "start": "Giày oxford nam",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Da thật"
+    },
+    {
+      "start": "Giày oxford nam",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Nâu"
+    },
+    {
+      "start": "Giày oxford nam",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Clarks"
+    },
+    {
+      "start": "Giày oxford nam",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Thanh lịch"
+    },
+    {
+      "start": "Giày oxford nam",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Công sở"
+    },
+    {
+      "start": "Giày oxford nam",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Giày Oxford Clarks da thật bền bỉ, thiết kế cổ điển phù hợp cho môi trường công sở."
+    },
+    {
+      "start": "Giày oxford nam",
+      "type": "CÓ_GIÁ",
+      "end": "1500"
+    },
+    {
+      "start": "Dép lê thời trang",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Cao su tổng hợp"
+    },
+    {
+      "start": "Dép lê thời trang",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Đen"
+    },
+    {
+      "start": "Dép lê thời trang",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Birkenstock"
+    },
+    {
+      "start": "Dép lê thời trang",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Minimalist"
+    },
+    {
+      "start": "Dép lê thời trang",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Dép lê thời trang",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Dép lê Birkenstock mang lại sự thoải mái, phù hợp với phong cách tối giản."
+    },
+    {
+      "start": "Dép lê thời trang",
+      "type": "CÓ_GIÁ",
+      "end": "700"
+    },
+    {
+      "start": "Balo vải canvas",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Canvas"
+    },
+    {
+      "start": "Balo vải canvas",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Be"
+    },
+    {
+      "start": "Balo vải canvas",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Fjällräven"
+    },
+    {
+      "start": "Balo vải canvas",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Casual"
+    },
+    {
+      "start": "Balo vải canvas",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Du lịch"
+    },
+    {
+      "start": "Balo vải canvas",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Balo Fjällräven chất liệu canvas bền bỉ, phù hợp cho những chuyến đi xa hoặc sử dụng hằng ngày"
+    },
+    {
+      "start": "Balo vải canvas",
+      "type": "CÓ_GIÁ",
+      "end": "1200"
+    },
+    {
+      "start": "Áo cardigan len",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Len Merino"
+    },
+    {
+      "start": "Áo cardigan len",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Xanh rêu"
+    },
+    {
+      "start": "Áo cardigan len",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Uniqlo"
+    },
+    {
+      "start": "Áo cardigan len",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Minimalist"
+    },
+    {
+      "start": "Áo cardigan len",
+      "type": "DÙNG_CHO_MÙA",
+      "end": "Mùa thu"
+    },
+    {
+      "start": "Áo cardigan len",
+      "type": "CÓ_GIÁ",
+      "end": "680"
+    },
+    {
+      "start": "Áo cardigan len",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Áo cardigan Uniqlo chất len Merino mềm mại, giữ ấm tốt trong tiết trời thu se lạnh."
+    },
+    {
+      "start": "Quần jogger thể thao",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Polyester co giãn"
+    },
+    {
+      "start": "Quần jogger thể thao",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Xám nhạt"
+    },
+    {
+      "start": "Quần jogger thể thao",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Nike"
+    },
+    {
+      "start": "Quần jogger thể thao",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Athleisure"
+    },
+    {
+      "start": "Quần jogger thể thao",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Tập gym"
+    },
+    {
+      "start": "Quần jogger thể thao",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Quần jogger Nike phù hợp cho tập luyện và cả mặc hàng ngày với thiết kế thoải mái."
+    },
+    {
+      "start": "Quần jogger thể thao",
+      "type": "CÓ_GIÁ",
+      "end": "1050"
+    },
+    {
+      "start": "Đầm xòe ren",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Ren cao cấp"
+    },
+    {
+      "start": "Đầm xòe ren",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Đỏ"
+    },
+    {
+      "start": "Đầm xòe ren",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Valentino"
+    },
+    {
+      "start": "Đầm xòe ren",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Sang trọng"
+    },
+    {
+      "start": "Đầm xòe ren",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạ tiệc"
+    },
+    {
+      "start": "Đầm xòe ren",
+      "type": "CÓ_GIÁ",
+      "end": "3200"
+    },
+    {
+      "start": "Đầm xòe ren",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Thiết kế nữ tính, giúp nàng nổi bật trong mọi buổi tiệc"
+    },
+    {
+      "start": "Kính mát thời trang",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Nhựa acetate"
+    },
+    {
+      "start": "Kính mát thời trang",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Đen"
+    },
+    {
+      "start": "Kính mát thời trang",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Ray-Ban"
+    },
+    {
+      "start": "Kính mát thời trang",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Streetwear"
+    },
+    {
+      "start": "Kính mát thời trang",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Kính mát thời trang",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Kính mát Ray-Ban phong cách thời trang, bảo vệ mắt và tạo điểm nhấn cá tính."
+    },
+    {
+      "start": "Kính mát thời trang",
+      "type": "CÓ_GIÁ",
+      "end": "950"
+    },
+    {
+      "start": "Áo len cổ lọ",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Len cashmere"
+    },
+    {
+      "start": "Áo len cổ lọ",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Nâu"
+    },
+    {
+      "start": "Áo len cổ lọ",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Massimo Dutti"
+    },
+    {
+      "start": "Áo len cổ lọ",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Thanh lịch"
+    },
+    {
+      "start": "Áo len cổ lọ",
+      "type": "DÙNG_CHO_MÙA",
+      "end": "Mùa đông"
+    },
+    {
+      "start": "Áo len cổ lọ",
+      "type": "CÓ_GIÁ",
+      "end": "860"
+    },
+    {
+      "start": "Áo len cổ lọ",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Áo len cổ lọ Massimo Dutti mang đến vẻ thanh lịch và giữ ấm tốt cho mùa đông lạnh."
+    },
+    {
+      "start": "Túi đeo chéo nam",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Da PU"
+    },
+    {
+      "start": "Túi đeo chéo nam",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Đen"
+    },
+    {
+      "start": "Túi đeo chéo nam",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Coach"
+    },
+    {
+      "start": "Túi đeo chéo nam",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Casual"
+    },
+    {
+      "start": "Túi đeo chéo nam",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Dạo phố"
+    },
+    {
+      "start": "Túi đeo chéo nam",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Túi đeo chéo Coach nhỏ gọn, tiện lợi để đựng các vật dụng cá nhân khi ra ngoài."
+    },
+    {
+      "start": "Túi đeo chéo nam",
+      "type": "CÓ_GIÁ",
+      "end": "1100"
+    },
+    {
+      "start": "Áo sát nách thể thao",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Vải thể thao co giãn"
+    },
+    {
+      "start": "Áo sát nách thể thao",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Trắng"
+    },
+    {
+      "start": "Áo sát nách thể thao",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Under Armour"
+    },
+    {
+      "start": "Áo sát nách thể thao",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Thể thao"
+    },
+    {
+      "start": "Áo sát nách thể thao",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Tập gym"
+    },
+    {
+      "start": "Áo sát nách thể thao",
+      "type": "CÓ_GIÁ",
+      "end": "540"
+    },
+    {
+      "start": "Áo sát nách thể thao",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Áo sát nách Under Armour giúp thấm hút mồ hôi tốt, lý tưởng cho những buổi tập luyện."
+    },
+    {
+      "start": "Giày cao gót nữ",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Da tổng hợp"
+    },
+    {
+      "start": "Giày cao gót nữ",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Nude"
+    },
+    {
+      "start": "Giày cao gót nữ",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Jimmy Choo"
+    },
+    {
+      "start": "Giày cao gót nữ",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Sang trọng"
+    },
+    {
+      "start": "Giày cao gót nữ",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Công sở"
+    },
+    {
+      "start": "Giày cao gót nữ",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Giày cao gót Jimmy Choo với thiết kế sang trọng, phù hợp cho công sở và các sự kiện lớn."
+    },
+    {
+      "start": "Giày cao gót nữ",
+      "type": "CÓ_GIÁ",
+      "end": "2800"
+    },
+    {
+      "start": "Quần legging yoga",
+      "type": "LÀM_TỪ_CHẤT_LIỆU",
+      "end": "Spandex"
+    },
+    {
+      "start": "Quần legging yoga",
+      "type": "CÓ_MÀU_SẮC",
+      "end": "Tím"
+    },
+    {
+      "start": "Quần legging yoga",
+      "type": "THUỘC_THƯƠNG_HIỆU",
+      "end": "Lululemon"
+    },
+    {
+      "start": "Quần legging yoga",
+      "type": "MANG_PHONG_CÁCH",
+      "end": "Athleisure"
+    },
+    {
+      "start": "Quần legging yoga",
+      "type": "PHÙ_HỢP_VỚI",
+      "end": "Yoga"
+    },
+    {
+      "start": "Quần legging yoga",
+      "type": "CÓ_MÔ_TẢ",
+      "end": "Quần legging Lululemon có độ co giãn cao, giúp thoải mái vận động khi tập yoga"
+    },
+    {
+      "start": "Quần legging yoga",
+      "type": "CÓ_GIÁ",
+      "end": "970"
+    }
+  ]
+}
